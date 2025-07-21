@@ -1,4 +1,4 @@
 export type CreateQuestionResponse = {
-  questionId: string
-  answer: string | null
-}
+  questionId: string;
+  answer: string | null;
+};

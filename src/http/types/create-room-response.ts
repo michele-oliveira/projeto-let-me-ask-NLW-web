@@ -1,3 +1,3 @@
 export type CreateRoomResponse = {
-  roomId: string
-}
+  roomId: string;
+};
