@@ -4,12 +4,12 @@ Projeto desenvolvido durante um evento da Rocketseat para demonstrar o uso de ag
 
 ## 🚀 Tecnologias
 
-- **React ** - Biblioteca para interfaces de usuário
-- **TypeScript ** - Superset JavaScript com tipagem estática
-- **Vite ** - Build tool e servidor de desenvolvimento
-- **TailwindCSS ** - Framework CSS utility-first
-- **React Router Dom ** - Biblioteca de roteamento
-- **TanStack React Query ** - Gerenciamento de estado servidor e cache
+- **React** - Biblioteca para interfaces de usuário
+- **TypeScript** - Superset JavaScript com tipagem estática
+- **Vite** - Build tool e servidor de desenvolvimento
+- **TailwindCSS** - Framework CSS utility-first
+- **React Router Dom** - Biblioteca de roteamento
+- **TanStack React Query** - Gerenciamento de estado servidor e cache
 - **Radix UI** - Componentes primitivos acessíveis
 - **Shadcn/ui** - Sistema de componentes
 - **Lucide React** - Biblioteca de ícones
